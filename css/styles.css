@@ -360,6 +360,11 @@ a {
   transform: translateY(-5px);
 }
 
+.project-card-featured {
+  border-color: #b9cbea;
+  box-shadow: 0 12px 34px rgba(0, 35, 95, 0.1);
+}
+
 .project-link {
   display: flex;
   height: 100%;
@@ -401,6 +406,14 @@ a {
 
 .project-card-top-teal {
   background: linear-gradient(135deg, #005547, var(--teal));
+}
+
+.project-card-top-aquarium {
+  background: linear-gradient(135deg, #00475f, #00757d);
+}
+
+.project-card-top-photobomb {
+  background: linear-gradient(135deg, #501d49, #873164);
 }
 
 .project-card-top-amber {
