@@ -403,6 +403,10 @@ a {
   background: linear-gradient(135deg, #005547, var(--teal));
 }
 
+.project-card-top-amber {
+  background: linear-gradient(135deg, #613500, #9a5700);
+}
+
 .project-icon {
   display: grid;
   width: 58px;
